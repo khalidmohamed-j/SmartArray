@@ -1,0 +1,16 @@
+C:\Users\denni\source\repos\SmartArrayCoreClass\SmartArrayCoreClass\bin\Debug\netcoreapp3.0\SmartArrayCoreClass.deps.json
+C:\Users\denni\source\repos\SmartArrayCoreClass\SmartArrayCoreClass\bin\Debug\netcoreapp3.0\SmartArrayCoreClass.dll
+C:\Users\denni\source\repos\SmartArrayCoreClass\SmartArrayCoreClass\bin\Debug\netcoreapp3.0\SmartArrayCoreClass.pdb
+C:\Users\denni\source\repos\SmartArrayCoreClass\SmartArrayCoreClass\obj\Debug\netcoreapp3.0\SmartArrayCoreClass.csprojAssemblyReference.cache
+C:\Users\denni\source\repos\SmartArrayCoreClass\SmartArrayCoreClass\obj\Debug\netcoreapp3.0\SmartArrayCoreClass.AssemblyInfoInputs.cache
+C:\Users\denni\source\repos\SmartArrayCoreClass\SmartArrayCoreClass\obj\Debug\netcoreapp3.0\SmartArrayCoreClass.AssemblyInfo.cs
+C:\Users\denni\source\repos\SmartArrayCoreClass\SmartArrayCoreClass\obj\Debug\netcoreapp3.0\SmartArrayCoreClass.dll
+C:\Users\denni\source\repos\SmartArrayCoreClass\SmartArrayCoreClass\obj\Debug\netcoreapp3.0\SmartArrayCoreClass.pdb
+C:\Users\khali\Documents\Classes\Fall 2020\PROG 260 - Data Structures and Algorithms\Module 1 - The Basics\Mod01SmartArray\SmartArrayCoreClass\bin\Debug\netcoreapp3.0\SmartArrayCoreClass.deps.json
+C:\Users\khali\Documents\Classes\Fall 2020\PROG 260 - Data Structures and Algorithms\Module 1 - The Basics\Mod01SmartArray\SmartArrayCoreClass\bin\Debug\netcoreapp3.0\SmartArrayCoreClass.dll
+C:\Users\khali\Documents\Classes\Fall 2020\PROG 260 - Data Structures and Algorithms\Module 1 - The Basics\Mod01SmartArray\SmartArrayCoreClass\bin\Debug\netcoreapp3.0\SmartArrayCoreClass.pdb
+C:\Users\khali\Documents\Classes\Fall 2020\PROG 260 - Data Structures and Algorithms\Module 1 - The Basics\Mod01SmartArray\SmartArrayCoreClass\obj\Debug\netcoreapp3.0\SmartArrayCoreClass.csprojAssemblyReference.cache
+C:\Users\khali\Documents\Classes\Fall 2020\PROG 260 - Data Structures and Algorithms\Module 1 - The Basics\Mod01SmartArray\SmartArrayCoreClass\obj\Debug\netcoreapp3.0\SmartArrayCoreClass.AssemblyInfoInputs.cache
+C:\Users\khali\Documents\Classes\Fall 2020\PROG 260 - Data Structures and Algorithms\Module 1 - The Basics\Mod01SmartArray\SmartArrayCoreClass\obj\Debug\netcoreapp3.0\SmartArrayCoreClass.AssemblyInfo.cs
+C:\Users\khali\Documents\Classes\Fall 2020\PROG 260 - Data Structures and Algorithms\Module 1 - The Basics\Mod01SmartArray\SmartArrayCoreClass\obj\Debug\netcoreapp3.0\SmartArrayCoreClass.dll
+C:\Users\khali\Documents\Classes\Fall 2020\PROG 260 - Data Structures and Algorithms\Module 1 - The Basics\Mod01SmartArray\SmartArrayCoreClass\obj\Debug\netcoreapp3.0\SmartArrayCoreClass.pdb

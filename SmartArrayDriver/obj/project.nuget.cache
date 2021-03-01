@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "fDlZGro/Rphb72U7eoDlhTUOE5GrsSHUZ8OQzVMBqAC0MGxzCKJ33M66tLnlH3vGnKxhihu75guKHnC3/jfa5Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\khali\\Documents\\Classes\\Fall 2020\\PROG 260 - Data Structures and Algorithms\\Module 1 - The Basics\\Mod01SmartArray\\SmartArrayDriver\\SmartArrayDriver.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\khali\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\khali\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\khali\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512",
+    "C:\\Users\\khali\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

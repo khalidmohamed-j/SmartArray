@@ -1,0 +1,28 @@
+C:\Users\denni\source\repos\SmartArrayCoreClass\SmartArrayDriver\bin\Debug\netcoreapp3.0\SmartArrayDriver.exe
+C:\Users\denni\source\repos\SmartArrayCoreClass\SmartArrayDriver\bin\Debug\netcoreapp3.0\SmartArrayDriver.deps.json
+C:\Users\denni\source\repos\SmartArrayCoreClass\SmartArrayDriver\bin\Debug\netcoreapp3.0\SmartArrayDriver.runtimeconfig.json
+C:\Users\denni\source\repos\SmartArrayCoreClass\SmartArrayDriver\bin\Debug\netcoreapp3.0\SmartArrayDriver.runtimeconfig.dev.json
+C:\Users\denni\source\repos\SmartArrayCoreClass\SmartArrayDriver\bin\Debug\netcoreapp3.0\SmartArrayDriver.dll
+C:\Users\denni\source\repos\SmartArrayCoreClass\SmartArrayDriver\bin\Debug\netcoreapp3.0\SmartArrayDriver.pdb
+C:\Users\denni\source\repos\SmartArrayCoreClass\SmartArrayDriver\bin\Debug\netcoreapp3.0\SmartArrayCoreClass.dll
+C:\Users\denni\source\repos\SmartArrayCoreClass\SmartArrayDriver\bin\Debug\netcoreapp3.0\SmartArrayCoreClass.pdb
+C:\Users\denni\source\repos\SmartArrayCoreClass\SmartArrayDriver\obj\Debug\netcoreapp3.0\SmartArrayDriver.csprojAssemblyReference.cache
+C:\Users\denni\source\repos\SmartArrayCoreClass\SmartArrayDriver\obj\Debug\netcoreapp3.0\SmartArrayDriver.AssemblyInfoInputs.cache
+C:\Users\denni\source\repos\SmartArrayCoreClass\SmartArrayDriver\obj\Debug\netcoreapp3.0\SmartArrayDriver.AssemblyInfo.cs
+C:\Users\denni\source\repos\SmartArrayCoreClass\SmartArrayDriver\obj\Debug\netcoreapp3.0\SmartArrayDriver.csproj.CopyComplete
+C:\Users\denni\source\repos\SmartArrayCoreClass\SmartArrayDriver\obj\Debug\netcoreapp3.0\SmartArrayDriver.dll
+C:\Users\denni\source\repos\SmartArrayCoreClass\SmartArrayDriver\obj\Debug\netcoreapp3.0\SmartArrayDriver.pdb
+C:\Users\khali\Documents\Classes\Fall 2020\PROG 260 - Data Structures and Algorithms\Module 1 - The Basics\Mod01SmartArray\SmartArrayDriver\bin\Debug\netcoreapp3.0\SmartArrayDriver.exe
+C:\Users\khali\Documents\Classes\Fall 2020\PROG 260 - Data Structures and Algorithms\Module 1 - The Basics\Mod01SmartArray\SmartArrayDriver\bin\Debug\netcoreapp3.0\SmartArrayDriver.deps.json
+C:\Users\khali\Documents\Classes\Fall 2020\PROG 260 - Data Structures and Algorithms\Module 1 - The Basics\Mod01SmartArray\SmartArrayDriver\bin\Debug\netcoreapp3.0\SmartArrayDriver.runtimeconfig.json
+C:\Users\khali\Documents\Classes\Fall 2020\PROG 260 - Data Structures and Algorithms\Module 1 - The Basics\Mod01SmartArray\SmartArrayDriver\bin\Debug\netcoreapp3.0\SmartArrayDriver.runtimeconfig.dev.json
+C:\Users\khali\Documents\Classes\Fall 2020\PROG 260 - Data Structures and Algorithms\Module 1 - The Basics\Mod01SmartArray\SmartArrayDriver\bin\Debug\netcoreapp3.0\SmartArrayDriver.dll
+C:\Users\khali\Documents\Classes\Fall 2020\PROG 260 - Data Structures and Algorithms\Module 1 - The Basics\Mod01SmartArray\SmartArrayDriver\bin\Debug\netcoreapp3.0\SmartArrayDriver.pdb
+C:\Users\khali\Documents\Classes\Fall 2020\PROG 260 - Data Structures and Algorithms\Module 1 - The Basics\Mod01SmartArray\SmartArrayDriver\bin\Debug\netcoreapp3.0\SmartArrayCoreClass.dll
+C:\Users\khali\Documents\Classes\Fall 2020\PROG 260 - Data Structures and Algorithms\Module 1 - The Basics\Mod01SmartArray\SmartArrayDriver\bin\Debug\netcoreapp3.0\SmartArrayCoreClass.pdb
+C:\Users\khali\Documents\Classes\Fall 2020\PROG 260 - Data Structures and Algorithms\Module 1 - The Basics\Mod01SmartArray\SmartArrayDriver\obj\Debug\netcoreapp3.0\SmartArrayDriver.csprojAssemblyReference.cache
+C:\Users\khali\Documents\Classes\Fall 2020\PROG 260 - Data Structures and Algorithms\Module 1 - The Basics\Mod01SmartArray\SmartArrayDriver\obj\Debug\netcoreapp3.0\SmartArrayDriver.AssemblyInfoInputs.cache
+C:\Users\khali\Documents\Classes\Fall 2020\PROG 260 - Data Structures and Algorithms\Module 1 - The Basics\Mod01SmartArray\SmartArrayDriver\obj\Debug\netcoreapp3.0\SmartArrayDriver.AssemblyInfo.cs
+C:\Users\khali\Documents\Classes\Fall 2020\PROG 260 - Data Structures and Algorithms\Module 1 - The Basics\Mod01SmartArray\SmartArrayDriver\obj\Debug\netcoreapp3.0\SmartArrayDriver.csproj.CopyComplete
+C:\Users\khali\Documents\Classes\Fall 2020\PROG 260 - Data Structures and Algorithms\Module 1 - The Basics\Mod01SmartArray\SmartArrayDriver\obj\Debug\netcoreapp3.0\SmartArrayDriver.dll
+C:\Users\khali\Documents\Classes\Fall 2020\PROG 260 - Data Structures and Algorithms\Module 1 - The Basics\Mod01SmartArray\SmartArrayDriver\obj\Debug\netcoreapp3.0\SmartArrayDriver.pdb

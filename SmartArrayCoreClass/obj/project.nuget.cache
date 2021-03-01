@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "iXbnSHTULWnuDC6bzXq8CSp8b1qkZRH2Fr+/8m8z477o/FLvDqiMVDRDcNTRhHtxdEi8pA7Fxn/4/K0UxAplSA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\khali\\Documents\\Classes\\Fall 2020\\PROG 260 - Data Structures and Algorithms\\Module 1 - The Basics\\Mod01SmartArray\\SmartArrayCoreClass\\SmartArrayCoreClass.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\khali\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\khali\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\khali\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
